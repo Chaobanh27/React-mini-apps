@@ -1,0 +1,10 @@
+.complete{
+    text-decoration: line-through;
+    color: green;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: 0;
+}

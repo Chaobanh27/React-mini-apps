@@ -1,0 +1,26 @@
+#X,#O{
+    font-size: 50px;
+}
+.status{
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: white;
+}
+.board{
+    height: 255px;
+    width: 250px;
+}
+.board-row{
+    width: 250px;
+    height: calc(255px / 3);
+    display: flex;
+
+}
+.square{
+    height: 85px;
+    width: 80px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
